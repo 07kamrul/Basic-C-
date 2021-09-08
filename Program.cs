@@ -13,6 +13,7 @@ namespace CSH
             Console.WriteLine("\nSingle Level Inheritance press: 3");
             Console.WriteLine("\nMulti Level Inheritance press: 4");
             Console.WriteLine("\nAggregation (HAS-A Relationship) press 5");
+            Console.WriteLine("\nMethod Overloading press 6");
 
             Console.WriteLine("\nEnter your choice: ");
 
@@ -58,6 +59,19 @@ namespace CSH
                     Address a = new Address("Niketan","Gulshan", "Dhaka");
                     Person ps = new Person(1,"Person Name",a);
                     ps.display();
+
+                    break;
+
+                
+                case 6:
+                    Console.WriteLine("Method Overloading By changing no. of arguments");
+
+                    Console.WriteLine(Cal.add(12, 23));  
+                    Console.WriteLine(Cal.add(12, 23, 25)); 
+                    
+                    Console.WriteLine("Method Overloading By changing data type of arguments");
+                    Console.WriteLine(Cal2.add(12, 23));  
+                    Console.WriteLine(Cal2.add(12.4f,21.3f));  
 
                     break;
 
