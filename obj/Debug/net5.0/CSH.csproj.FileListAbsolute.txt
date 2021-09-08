@@ -1,0 +1,16 @@
+/home/khasan/obj/CSH/bin/Debug/net5.0/CSH
+/home/khasan/obj/CSH/bin/Debug/net5.0/CSH.deps.json
+/home/khasan/obj/CSH/bin/Debug/net5.0/CSH.runtimeconfig.json
+/home/khasan/obj/CSH/bin/Debug/net5.0/CSH.runtimeconfig.dev.json
+/home/khasan/obj/CSH/bin/Debug/net5.0/CSH.dll
+/home/khasan/obj/CSH/bin/Debug/net5.0/ref/CSH.dll
+/home/khasan/obj/CSH/bin/Debug/net5.0/CSH.pdb
+/home/khasan/obj/CSH/obj/Debug/net5.0/CSH.csproj.AssemblyReference.cache
+/home/khasan/obj/CSH/obj/Debug/net5.0/CSH.GeneratedMSBuildEditorConfig.editorconfig
+/home/khasan/obj/CSH/obj/Debug/net5.0/CSH.AssemblyInfoInputs.cache
+/home/khasan/obj/CSH/obj/Debug/net5.0/CSH.AssemblyInfo.cs
+/home/khasan/obj/CSH/obj/Debug/net5.0/CSH.csproj.CoreCompileInputs.cache
+/home/khasan/obj/CSH/obj/Debug/net5.0/CSH.dll
+/home/khasan/obj/CSH/obj/Debug/net5.0/ref/CSH.dll
+/home/khasan/obj/CSH/obj/Debug/net5.0/CSH.pdb
+/home/khasan/obj/CSH/obj/Debug/net5.0/CSH.genruntimeconfig.cache
